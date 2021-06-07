@@ -1,0 +1,56 @@
+body
+{
+    background: url(fondosos.png);
+    background-position: center center;
+    background-attachment: fixed; 
+}
+h1
+{
+    font-size: 40pt;
+    background:#FA97E0;
+    border-style: inset;
+    color: #FF008F;
+    font-family: serif;
+    text-align: center;
+    border-color: black;
+    border-width:thick;
+}
+h2
+{
+    font-size: 26pt;
+    color: orangered;
+    font-family: serif;
+    text-align: center;
+}
+p
+{
+    font-weight: 300;
+    color:#0a0a0a;
+    font-size: 17pt;
+    text-align: center;
+}
+.izquierda
+{
+    float:left;
+    align-content: center;
+    border:6pt double #000000;
+    background: #FCD16E;
+    margin: auto;
+    padding: inherit;
+}
+.izquierda2
+{
+    border:6pt double #000000;
+    background: #FCD16E;
+    margin: auto;
+    padding: inherit;
+    float:right;
+    align-content: center
+}
+.centro
+{
+    font-size: 20pt;
+    color:#FF7000;
+    background-color: (background);
+    height: auto;
+}
